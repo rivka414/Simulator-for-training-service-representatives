@@ -25,7 +25,7 @@
 1. צור קובץ בשם `.env` בתיקיית השרת (Backend).
 2. העתק והדבק לתוכו את השורות הבאות והזן את המפתחות שברשותך:
 
-```env
+
 GOOGLE_API_KEY=your_google_api_key_here
 ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
 הערה: ניתן להנפיק את המפתחות בפורטלים הייעודיים של Google AI Studio ושל ElevenLabs.
